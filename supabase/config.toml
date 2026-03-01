@@ -1,0 +1,7 @@
+project_id = "fgfccaqfgrwybxxkczuz"
+
+[functions.security-chat]
+verify_jwt = false
+
+[functions.fraud-analyze]
+verify_jwt = false
